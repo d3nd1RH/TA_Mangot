@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320455604256",
+    "project_id": "maggotbsf-app",
+    "storage_bucket": "maggotbsf-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320455604256:android:55065b485eb14a7858e445",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_hp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6vHjm_XgBPIvQ1XFBpbTr0DtjfpkTFkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
